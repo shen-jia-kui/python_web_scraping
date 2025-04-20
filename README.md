@@ -1,0 +1,1 @@
+這是我開發的手語字典爬蟲程式及爬取到的資料，sign language_selenium.ipynb為程式，all_results_word.json為爬取到的字詞和影片連結，all_results_sentence.json為爬取到的句子和影片連結。
